@@ -20,4 +20,5 @@ Check out my [portfolio website](https://michaelflohrschuetz.com/)
 ## 📬 Connect with me
 
 [Email me](mailto:Michael.Flohrschuetz@gmail.com)
+
 [LinkedIn](https://www.linkedin.com/in/michael-flohrschuetz)
